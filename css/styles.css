@@ -1,0 +1,10 @@
+/* reset */
+ul, ol {
+    text-decoration: none;
+}
+body {
+    font-family: 'Manrope' sans-serif;
+    font-weight: 400;
+    color: #fcf9f9;
+    margin: 0;
+}
